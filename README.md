@@ -28,8 +28,8 @@ python SnakePython.py
 
 ## Compile to EXE
 
-pip install pyinstaller
-pyinstaller --onefile SnakePython.py
+- pip install pyinstaller
+- pyinstaller --onefile SnakePython.py
 
 ## ✨ Game Features
 
