@@ -3,6 +3,11 @@
 
 A two-player snake game where you compete against an AI opponent to collect food and grow your snake. The game features normal and special food items, progressive difficulty, and wrapped screen edges.
 
+## ☀️ Direct run
+
+Download compiled version and run locally:
+[SnakePython.exe](https://github.com/dliedke/SnakePython/blob/master/dist/SnakePython.exe)
+
 ## 🛠️ Installation Requirements
 
 1. Python 3.x
