@@ -3,7 +3,7 @@
 
 A two-player snake game where you compete against an AI opponent to collect food and grow your snake. The game features normal and special food items, progressive difficulty, and wrapped screen edges.
 
-## ☀️ Direct run
+## ☀️ Direct run (Compiled exe)
 
 Download compiled version and run locally:
 [SnakePython.exe](https://github.com/dliedke/SnakePython/blob/master/dist/SnakePython.exe)
@@ -25,6 +25,11 @@ pip install pygame
 4. Run the command:
 
 python SnakePython.py
+
+## Compile to EXE
+
+pip install pyinstaller
+pyinstaller --onefile SnakePython.py
 
 ## ✨ Game Features
 
@@ -74,3 +79,5 @@ The game ends when:
 - 🚫 A snake has no valid moves remaining
 
 Press Enter to restart the game after it ends! 🎮
+
+
