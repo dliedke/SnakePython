@@ -87,4 +87,6 @@ The game ends when:
 - ⚔️ Snakes collide head-on (results in a tie)
 - 🚫 A snake has no valid moves remaining
 
-Press Enter to restart the game after it ends! 🎮
+Press Enter to restart the game after it ends or ESC to exit! 🎮
+
+Built with ChatGPT o3-mini-high and Claude Sonnet 3.5
